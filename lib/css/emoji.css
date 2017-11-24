@@ -246,6 +246,6 @@ img.emoji {
     clear: left;
 }
 
-.emoji-menu a .label {
+.emoji-menu a .emoji-label {
     display: none;
 }
